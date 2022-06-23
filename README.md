@@ -2,7 +2,7 @@
 - 👀 I’m interested in blokchain comunity
 - 🌱 I’m currently learning in build project 
 - 💞️ I’m looking to collaborate on your early project
-- 📫 How to reach me telegram @ihzaafdian
+- 📫 How to reach me telegram @ihzacoe / ihzaafdian@gmail.com
 
 <!---
 ihzaafdian/ihzaafdian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
